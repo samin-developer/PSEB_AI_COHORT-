@@ -1,0 +1,5 @@
+In this code I have created a student class in which i make default class with parameters name and score.
+I have created a list named students with parameters name and score 
+then i have made function of top_scorer and i have taken students the list of students 
+now i have initialized a loop in which the list is visited like every student details and make comparisons 
+until we get the highest one and the ones above 50
